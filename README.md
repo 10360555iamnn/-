@@ -24,5 +24,10 @@ e.g假設A要領取實況主的錢會抱錯
 
 
 # Donation_pro專題解釋
-1. Donation專題的功能都有  
-2. 增加第三方收取一成的合約費用  
+1. Donation專題的功能都有先略過  
+設定0x5B38Da6a701c568545dCfcB03FcB875f56beddC4為建立合約者  
+故me設定為0x5B38Da6a701c568545dCfcB03FcB875f56beddC4  
+因為owner還沒設定所以是空地址  
+![image](https://github.com/10360555iamnn/-/assets/95529963/10c2e4f1-4009-4fcc-9f25-a0bb567b6a3f)
+
+3. 增加第三方收取一成的合約費用  

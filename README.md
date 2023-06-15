@@ -33,3 +33,8 @@ e.g假設A要領取實況主的錢會抱錯
 ![image](https://github.com/10360555iamnn/-/assets/95529963/b4982e19-9768-4185-b46c-193960d5aae0)  
 
 2. 增加第三方收取一成的合約費用  
+![image](https://github.com/10360555iamnn/-/assets/95529963/539d09fa-d0ba-40a9-a4f0-f607490b9464)  
+假設owner要提領，owner可以領9成，me可以領1成(一樣只有owner可以領)  
+![image](https://github.com/10360555iamnn/-/assets/95529963/c6d1b1f7-3274-4e92-a504-5db304c98567)  
+
+

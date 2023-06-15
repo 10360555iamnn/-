@@ -28,8 +28,8 @@ e.g假設A要領取實況主的錢會抱錯
 設定0x5B38Da6a701c568545dCfcB03FcB875f56beddC4為建立合約者  
 故me設定為0x5B38Da6a701c568545dCfcB03FcB875f56beddC4  
 因為owner還沒設定所以是空地址  
-![image](https://github.com/10360555iamnn/-/assets/95529963/10c2e4f1-4009-4fcc-9f25-a0bb567b6a3f)
+![image](https://github.com/10360555iamnn/-/assets/95529963/10c2e4f1-4009-4fcc-9f25-a0bb567b6a3f)  
 設定0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2為owner(點選)  
-![image](https://github.com/10360555iamnn/-/assets/95529963/b4982e19-9768-4185-b46c-193960d5aae0)
+![image](https://github.com/10360555iamnn/-/assets/95529963/b4982e19-9768-4185-b46c-193960d5aae0)  
 
 2. 增加第三方收取一成的合約費用  
